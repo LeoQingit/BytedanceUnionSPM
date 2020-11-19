@@ -1,3 +1,4 @@
-struct BytedanceUnionSPM {
-    var text = "Hello, World!"
+
+public struct BytedanceUnionSPM {
+    public var text = "Hello, World!"
 }
